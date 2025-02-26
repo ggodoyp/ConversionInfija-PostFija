@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grego\\OneDrive\\Documentos\\Ggodoy\\Universidad\\Programaci\u00F3nIII\\ConversionInfija-PostFija\\ConversionInfija-PostFija\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{449B9E3E-5E7A-42F1-AE21-C1D834347FF3}|ConversionInfija-PostFija\\ConversionInfija-PostFija.csproj|c:\\users\\grego\\onedrive\\documentos\\ggodoy\\universidad\\programaci\u00F3niii\\conversioninfija-postfija\\conversioninfija-postfija\\conversioninfija-postfija\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{449B9E3E-5E7A-42F1-AE21-C1D834347FF3}|ConversionInfija-PostFija\\ConversionInfija-PostFija.csproj|solutionrelative:conversioninfija-postfija\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449B9E3E-5E7A-42F1-AE21-C1D834347FF3}|ConversionInfija-PostFija\\ConversionInfija-PostFija.csproj|c:\\users\\grego\\onedrive\\documentos\\ggodoy\\universidad\\programaci\u00F3niii\\conversioninfija-postfija\\conversioninfija-postfija\\conversioninfija-postfija\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{449B9E3E-5E7A-42F1-AE21-C1D834347FF3}|ConversionInfija-PostFija\\ConversionInfija-PostFija.csproj|solutionrelative:conversioninfija-postfija\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor.cs",
+              "DocumentMoniker": "C:\\Users\\grego\\OneDrive\\Documentos\\Ggodoy\\Universidad\\Programaci\u00F3nIII\\ConversionInfija-PostFija\\ConversionInfija-PostFija\\ConversionInfija-PostFija\\Pages\\Home.razor.cs",
+              "RelativeDocumentMoniker": "ConversionInfija-PostFija\\Pages\\Home.razor.cs",
+              "ToolTip": "C:\\Users\\grego\\OneDrive\\Documentos\\Ggodoy\\Universidad\\Programaci\u00F3nIII\\ConversionInfija-PostFija\\ConversionInfija-PostFija\\ConversionInfija-PostFija\\Pages\\Home.razor.cs",
+              "RelativeToolTip": "ConversionInfija-PostFija\\Pages\\Home.razor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T01:49:34.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\grego\\OneDrive\\Documentos\\Ggodoy\\Universidad\\Programaci\u00F3nIII\\ConversionInfija-PostFija\\ConversionInfija-PostFija\\ConversionInfija-PostFija\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "ConversionInfija-PostFija\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\grego\\OneDrive\\Documentos\\Ggodoy\\Universidad\\Programaci\u00F3nIII\\ConversionInfija-PostFija\\ConversionInfija-PostFija\\ConversionInfija-PostFija\\Pages\\Home.razor",
+              "RelativeToolTip": "ConversionInfija-PostFija\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T01:21:42.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

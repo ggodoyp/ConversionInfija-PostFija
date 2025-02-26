@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ConversionInfija-PostFija.props" />
+</Project>

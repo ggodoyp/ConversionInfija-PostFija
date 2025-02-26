@@ -1,0 +1,28 @@
+﻿@page "/"
+@inherits HomeComponent
+
+<h3>Conversión Infija a Postfija</h3>
+
+<input @bind="expresionInfija" placeholder="Ingrese expresión infija" />
+<button @onclick="ConvertirAPostfija">Convertir</button>
+
+
+@if (!string.IsNullOrEmpty(expresionPostfija))
+{   
+    <div>
+        <p><strong>Expresión Postfija:</strong> @expresionPostfija</p>
+    </div>
+    <div>
+        <h3>Evaluación</h3>        
+        <button @onclick="EvaluarPostfija">Evaluar Expresión</button>
+    </div>
+
+    if (result != null)
+    {
+        <div>
+            <p><strong>Resultado:</strong> @result</p>
+        </div>
+    }
+}
+
+
